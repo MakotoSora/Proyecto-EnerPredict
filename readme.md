@@ -44,19 +44,6 @@ Calculadora web desarrollada en Python con **Streamlit** para predecir el consum
 
 ---
 
-## 📄 Formato del CSV (opcional)
-
-Si deseas cargar tu historial de recibos, el archivo `.csv` debe tener las siguientes columnas:
-
-```csv
-periodo,kwh,importe
-2024-10,287.0,459.20
-2024-11,270.0,432.00
-2024-12,264.2,422.72
-```
-
----
-
 ## 👥 Equipo 10
 
 Proyecto académico desarrollado para la materia **Metodología y Práctica de la Investigación** (Ciclo 2026B).
